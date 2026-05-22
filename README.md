@@ -197,53 +197,6 @@ These analyses helped determine whether observed differences between models repr
 
 ---
 
-# Repository Structure
-
-```text
-privacy-preserving-record-linkage-ml/
-│
-├── README.md
-├── poster.pdf
-│
-├── BASELINE.py
-├── BALANCED.py
-│
-├── pprl_preprocess.py
-├── pprl_weights.py
-├── pprl_recall.py
-├── PPRL_train.py
-│
-├── logistic_regression.py
-├── logistic_regression_upsample.py
-├── logistic_regression_downsample.py
-│
-├── svm.py
-├── svm_upsample.py
-├── svm_downsample.py
-│
-├── knn.py
-├── knn_upsample.py
-├── knn_downsample.py
-│
-├── snn.py
-├── snn_upsample.py
-├── snn_downsample.py
-│
-├── mlnn.py
-├── mlnn_upsample.py
-├── mlnn_downsample.py
-│
-├── xgboost.py
-├── xgboosttuned.py
-├── XGB_upsample.py
-├── XGB_downsample.py
-│
-├── Statistical_tests.py
-└── mcnemar_sampling.py
-```
-
----
-
 # Project Files
 
 ## Preprocessing and Feature Engineering
