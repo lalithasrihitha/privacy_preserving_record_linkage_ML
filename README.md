@@ -319,10 +319,7 @@ This project was completed during a practicum internship at:
 ## Regenstrief Institute
 Indianapolis, Indiana
 
-in collaboration with:
 
-## Indiana University
-Luddy School of Informatics, Computing, and Engineering
 
 Focus areas included:
 - Healthcare AI
